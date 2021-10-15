@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Meteo",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"wificonfig.h": "c"
+		}
+	}
+}
